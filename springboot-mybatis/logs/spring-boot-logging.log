@@ -1,0 +1,7 @@
+2017-10-18 16:29:04.500  INFO 52772 --- [main] com.joy.App                              : Starting App on linzhiqiang with PID 52772 (E:\GitDemo\springboot-mybatis\target\classes started by Lizhihua in E:\GitDemo\springboot-mybatis)
+2017-10-18 16:29:04.502  INFO 52772 --- [main] com.joy.App                              : No active profile set, falling back to default profiles: default
+2017-10-18 16:29:05.471  INFO 52772 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2017-10-18 16:29:05.471  INFO 52772 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.20
+2017-10-18 16:29:05.608  INFO 52772 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-10-18 16:29:06.248  INFO 52772 --- [main] com.joy.App                              : Started App in 1.93 seconds (JVM running for 2.219)
+2017-10-18 16:29:10.104  INFO 52772 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
